@@ -1,3 +1,21 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates and initializes new git repository. It is needed so you can commit in future in this repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you want to make a change where you are unsure about the result and you want to experiment something new.
+
+How do the diagrams help you visualize the branch structure?
+The diagram helps to understand the branches leading to their parent.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The merging of two braches results in the most latest activity on the branhes and merge into one file. The diagrams help to visualise the track of origination of the commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merge can create a file from two if the change is clear otherwise someone haas to check himself to make diecision what exactly is required in this merge.
